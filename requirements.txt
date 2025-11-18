@@ -1,6 +1,6 @@
-streamlit
-numpy
-pillow
-opencv-python
-scikit-learn
-tensorflow>=2.10  # only required if you train/load Keras model.h5
+streamlit==1.29.0
+numpy==1.25.2
+pillow==10.1.0
+opencv-python==4.8.1.78
+scikit-learn==1.3.2
+tensorflow>=2.10
